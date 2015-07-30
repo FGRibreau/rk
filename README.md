@@ -2,7 +2,7 @@
 
 > it just joins keys together by colons. Useful when working with Redis.
 
-Idea from [Dancing around strings in Node.js and Redis](https://medium.com/@stockholmux/dancing-around-strings-in-node-js-and-redis-2a8f91ebe0bf)
+Original idea by @stockholmux in [Dancing around strings in Node.js and Redis](https://medium.com/@stockholmux/dancing-around-strings-in-node-js-and-redis-2a8f91ebe0bf)
 
 
 # npm
