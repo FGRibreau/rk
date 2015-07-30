@@ -1,0 +1,23 @@
+{
+  "name": "rk",
+  "version": "1.0.0",
+  "description": "Idea from https://medium.com/@stockholmux/dancing-around-strings-in-node-js-and-redis-2a8f91ebe0bf",
+  "main": "rk.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FGRibreau/rk.git"
+  },
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FGRibreau/rk/issues"
+  },
+  "homepage": "https://github.com/FGRibreau/rk",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
