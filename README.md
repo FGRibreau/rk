@@ -1,4 +1,4 @@
-# rk [![Build Status](https://drone.io/github.com/FGRibreau/rk/status.png)](https://drone.io/github.com/FGRibreau/rk/latest)
+# rk [![Build Status](https://drone.io/github.com/FGRibreau/rk/status.png)](https://drone.io/github.com/FGRibreau/rk/latest) [![Downloads](http://img.shields.io/npm/dm/rk.svg)](https://www.npmjs.com/package/rk)
 
 > it just joins keys together by colons. Useful when working with Redis.
 
