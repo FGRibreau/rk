@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/FGRibreau/rk",
   "devDependencies": {
-    "chai": "^3.2.0",
+    "chai": "^4.2.0",
     "mocha": "^2.2.5"
   }
 }
